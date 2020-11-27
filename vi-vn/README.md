@@ -1,86 +1,86 @@
 # The Dynamo Primer
 
-## For Dynamo v2.0
-Download the [Dynamo v1.3 Primer here](http://primer.dynamobim.org/en/Appendix/DynamoPrimer-Print1_3.pdf)
+## Đối với Dynamo v2.0
+Tải về tại [Dynamo v1.3 Primer](http://primer.dynamobim.org/en/Appendix/DynamoPrimer-Print1_3.pdf)
 
 ![Dynamo Logo](images/dynamo_logo_dark-trim.jpg)
 
-> Dynamo is an open source visual programming platform for designers.
+> Dynamo là một nền tảng lập trình trực quan giành cho các nhà thiết kế.
 
-### Welcome
-You have just opened the Dynamo Primer, a comprehensive guide to visual programming in Autodesk Dynamo Studio. This primer is an on-going project to share the fundamentals of programming. Topics include working with computational geometry, best practices for rules-based design, cross-disciplinary programming applications, and more with the Dynamo Platform.
+### Chào mừng
+Chào mừng bạn đến với Dynamo Primer, một hướng dẫn toàn diện về lập trình trực quan trong Autodesk Dynamo Studio.Bản sơ lược này là một dự án chia sẻ các nguyên tắc cơ bản về lập trình. Chủ để bao gồm làm việc với hình học tính toán, các phương pháp hay nhất dựa trên thiết kế, các ứng dụng lập trình đa dạng, và nhiều hơn thế nữa với nền tảng Dynamo.
 
-The power of Dynamo can be found in a wide variety of design-related activities. Dynamo enables an expanding list of readily accessible ways for you to get started:
-* **Explore** visual programming for the first time
-* **Connect** workflows in various software
-* **Engage** an active community of users, contributors, and developers
-* **Develop** an open-source platform for continued improvement
+Sức mạnh của Dynamo có thể được tìm thấy trong rất nhiều hoạt động liên quan đến thiết kế. Dynamo cho phép mở rộng danh sách các cách dễ tiếp cận để bạn bắt đầu:
+* **Khám phá** lập trình trực quan lần đầu tiên.
+* **Kết nối** quy trình làm việc trong các phần mềm khác nhau
+* **Hứa hẹn** một cộng đồng người dùng, cộng tác viên và nhà phát triển tích cực
+* **Phát triển** một nền tảng mã nguồn mở để tiếp tục cải tiến.
 
 In the midst of this activity and exciting opportunity for working with Dynamo, we need a document of the same caliber, the Dynamo Primer.
 
-This Primer includes chapters developed with Mode Lab. These chapters focus on the essentials you will need to get up and running developing your own visual programs with Dynamo and key insights on how to take Dynamo further. Here's what you can expect to learn from the primer:
+Primer này bao gồm các chương được phát triển bằng Mode Lab. Các chương này tập trung vào những điều cơ bản bạn cần để bắt đầu và vận hành phát triển các chương trình trực quan của riêng mình với Dynamo và những hiểu biết chính về cách đưa Dynamo tiến xa hơn. Dưới đây là những gì bạn có thể học được từ Primer:
 
-* **Context** - What exactly is "Visual Programming" and what are the concepts I need to understand to dive in to Dynamo?
-* **Getting Started** - How do I get Dynamo and create my first program?
-* **What's in a Program** - What are the functional parts of Dynamo and how do I use them?
-* **Building Blocks** - What is "Data" and what are some fundamental types I can start using in my programs?
-* **Geometry for Design** - How do I work with geometric elements in Dynamo?
-* **Lists, Lists, Lists** - How to do I manage and coordinate my data structures?
-* **Code in Nodes** - How can I start extending Dynamo with my own code?
-* **Computational BIM** - How can I use Dynamo with a Revit model?
-* **Custom Nodes** - How can I create my own nodes?
-* **Packages** - How can I share my tools with the community?
+* **Định Nghĩa** - Chính xác thì "Lập trình trực quan" là gì và những khái niệm tôi cần hiểu để đi sâu vào Dynamo là gì?
+* **Bắt Đầu** - Làm cách nào để tải về Dynamo và tạo chương trình đầu tiên của tôi?
+* **Có Gì Bên Trong Một Chương Trình** - Các chức năng của Dynamo là gì và làm cách nào để có thể sử dụng chúng?
+* **Các Khu Của Tòa Nhà** - "Dữ liệu" là gì và một số kiểu dữ liệu cơ bản mà tôi có thể bắt đầu sử dụng trong các chương trình của mình là gì?
+* **Hình học cho thiết kế** - Làm cách nào để làm việc với các yếu tố hình học trong Dynamo?
+* **Danh sách, danh sách, danh sách** - Làm cách nào để quản lý và điều phối cấu trúc dữ liệu của tôi?
+* **Mã Trong Nút** - Làm cách nào để bắt đầu mở rộng Dynamo bằng cách viết mã của riêng tôi?
+* **BIM Tính Toán** - Làm cách nào để sử dụng Dynamo với mô hình Revit?
+* **Custom Nodes** - Làm cách nào để tạo các nút (Nodes) của riêng tôi?
+* **Packages** - Làm cách nào để chia sẻ các công cụ (Packages) của tôi với cộng đồng?
 
-This is an exciting time to be learning about, working with, and developing for Dynamo. Let's get started!
-
----
-
-### Open Source
-The Dynamo Primer project is open source! We're dedicated to providing quality content and appreciate any feedback you may have. If you would like to report an issue on anything at all, please post them on our GitHub issue page: https://github.com/DynamoDS/DynamoPrimer/issues
-
-If you would like to contribute a new section, edits, or anything else to this project, check out the GitHub repo to get started: https://github.com/DynamoDS/DynamoPrimer.
+Đây là thời điểm thú vị để tìm hiểu, làm việc và phát triển cho Dynamo. Bắt đầu nào!
 
 ---
-### The Dynamo Primer Project
-The Dynamo Primer is an open source project, initiated by Matt Jezyk and the Dynamo Development team at Autodesk.
 
-**Mode Lab** was commissioned to write the First Edition of the primer. We thank them for all of their efforts in establishing this valuable resource.
+### Mã Nguồn Mở
+Dự án Dynamo Primer là dự án mã nguồn mở! Chúng tôi tận tâm cung cấp nội dung chất lượng và đánh giá cao mọi phản hồi mà bạn có thể có. Nếu bạn muốn báo cáo sự cố về bất cứ điều gì, vui lòng đăng chúng trên trang sự cố GitHub của chúng tôi: https://github.com/DynamoDS/DynamoPrimer/issues
+
+Nếu bạn muốn đóng góp một phần mới, chỉnh sửa hoặc bất kỳ điều gì khác cho dự án này, hãy xem repo GitHub để bắt đầu: https://github.com/DynamoDS/DynamoPrimer.
+
+---
+### Về Dự án Dynamo Primer
+Dynamo Primer là một dự án mã nguồn mở, được khởi xướng bởi Matt Jezyk và nhóm phát triển Dynamo tại Autodesk.
+
+**Mode Lab** đã được giao nhiệm vụ khởi xướng phiên bản đầu tiên của Primer. Chúng tôi cảm ơn họ vì tất cả những nỗ lực của họ trong việc thiết lập nguồn tài nguyên quý giá này.
 
 [<img src="images/MODELAB_Logo.png">](http://modelab.is)
 
-**John Pierson of Parallax Team** was commissioned to update the primer to reflect the Dynamo 2.0. revisions.
+**John Pierson Của Parallax Team** đã được ủy nhiệm cập nhật lớn cho Primer để phản ánh các vấn đề với Dynamo 2.0, các bản sửa đổi.
 
 [<img src="images/PRLX_Logo.jpg">](http://www.parallaxteam.com/)
-### Acknowledgments
+### Sự biết ơn
 
-A special thanks to Ian Keough for initiating and guiding the Dynamo project.
+Đặc biệt cảm ơn Ian Keough vì đã khởi xướng và hướng dẫn dự án Dynamo.
 
-Thank you to Matt Jezyk, Ian Keough, Zach Kron, Racel Williams and Colin McCrone for enthusiastic collaboration and the opportunity to participate on a wide array of Dynamo projects.
+Cảm ơn Matt Jezyk, Ian Keough, Zach Kron, Racel Williams và Colin McCrone đã nhiệt tình cộng tác và có cơ hội tham gia vào nhiều dự án Dynamo.
 
-### Software and Resources
-**Dynamo** The current stable* release of Dynamo is Version 2.1.0
+### Phần mềm và Tài nguyên
+**Dynamo** Phiên bản Dynamo * ổn định hiện tại là Phiên bản 2.1.0
 
-http://dynamobim.com/download/ or http://dynamobuilds.com
+http://dynamobim.com/download/ hoặc http://dynamobuilds.com
 
-*Note: Starting with Revit 2020, Dynamo is bundled with Revit releases, resulting in manual installation not being required. More information is available at this [blog post](https://dynamobim.org/dynamo-core-2-1-release/).
+*Ghi chú: Bắt đầu với Revit 2020, Dynamo đi kèm với các bản phát hành Revit, do đó không cần cài đặt thủ công. Để biết thêm thông tin, có thể truy cập tại đây [Bài đăng trên blog](https://dynamobim.org/dynamo-core-2-1-release/).
 
-**DynamoBIM** The best source for additional information, learning content, and forums is the DynamoBIM website.
+**DynamoBIM** Là nguồn tốt nhất cho thông tin bổ sung, nội dung học tập và diễn đàn là trang web DynamoBIM.
 
 http://dynamobim.org
 
-**Dynamo GitHub** Dynamo is an open-source development project on GitHub. To contribute, check out DynamoDS.
+**Dynamo GitHub** Dynamo là một dự án phát triển mã nguồn mở trên GitHub. Để đóng góp, hãy xem DynamoDS.
 
 https://github.com/DynamoDS/Dynamo
 
-**Contact** Let us know about any issues with this document.
+**Contact** Hãy cho chúng tôi biết về bất kỳ vấn đề nào với tài liệu này.
 
 Dynamo@autodesk.com
 
-### License
-Copyright 2019 Autodesk
+### Giấy phép
+Bản quyền 2019 Autodesk
 
-Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
+Được cấp phép theo Giấy phép Apache, Phiên bản 2.0 ("Giấy phép"); bạn không thể sử dụng tệp này trừ khi tuân theo Giấy phép. Bạn có thể nhận được một bản sao của Giấy phép tại
 
 http://www.apache.org/licenses/LICENSE-2.0
 
-Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
+Trừ khi được yêu cầu bởi luật hiện hành hoặc được đồng ý bằng văn bản, phần mềm được phân phối theo Giấy phép sẽ được phân phối trên CƠ SỞ "NGUYÊN TRẠNG", KHÔNG CÓ ĐẢM BẢO HOẶC ĐIỀU KIỆN BẤT KỲ HÌNH THỨC NÀO, dù rõ ràng hay ngụ ý. Xem Giấy phép để biết các quyền và giới hạn điều chỉnh ngôn ngữ cụ thể theo Giấy phép.

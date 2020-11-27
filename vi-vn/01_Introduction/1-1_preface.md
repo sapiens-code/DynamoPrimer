@@ -1,11 +1,11 @@
-## 1.1 PREFACE
+## 1.1 LỜI NÓI ĐẦU
 
-###1.1.1 Welcome
+###1.1.1 Chào mừng
 
-Welcome Text
-- background, previous versions, ml dynamo activities
-- our excitement to have developed this primer (where dynamo is going)
-- the ambitions around the project (fundamental concepts, cross-disciplinary ie use the sandbox,
+Văn bản chào mừng
+- Bối cảnh, các phiên bản trước, các hoạt động của Dynamo
+- Sự phấn khích của chúng tôi khi phát triển primer này  (dynamo đang đi đến đâu)
+- Những tham vọng xung quanh dự án (các khái niệm cơ bản, cross-disciplinary ie use the sandbox,
 - this is guide to the current dynamo version
 - team signature
 
