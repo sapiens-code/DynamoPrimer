@@ -1,4 +1,8 @@
-# Appendix A: Resources
+# Phụ Lục A: Nguồn
 
-In this section, you can find additional resources for taking your Dynamo game one step further. We've also added an index of important nodes, a collection of useful packages, and a repository of the example files in this primer. Please feel free to add to this section...remember, the [Dynamo Primer](https://github.com/DynamoDS/DynamoPrimer) is open source!
+
+Trong phần này bạn có thể tìm thấy các nguồn bổ sung để đưa trò chơi Dynamo của bạn tiến thêm một bước nữa. Chúng tôi cũng thêm chỉ mục của các nút quan trọng, tập hơn các gói hữu ích và một kho lưu trữ chứa những tệp ví dụ trong Dynamo Primer. Hãy thêm vào phần này thoải mái...đừng quên, [Dynamo Primer](https://github.com/DynamoDS/DynamoPrimer) là mã nguồn mở.
+
 ![IMAGE](images/A/a-cover.png)
+
+
