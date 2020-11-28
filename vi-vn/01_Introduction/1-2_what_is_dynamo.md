@@ -1,38 +1,38 @@
-## What is Dynamo?
+## Dynamo là gì?
 
-Dynamo is, quite literally, what you make it. Working with Dynamo may include using the application, either in connection with other Autodesk software or not, engaging a Visual Programming process, or participating in a broad community of users and contributors.
+Dynamo, theo đúng nghĩa đen, là thứ bạn tạo ra nó. Làm việc với Dynamo có thể bao gồm việc sử dụng ứng dụng, có liên quan đến phần mềm Autodesk khác hoặc không, tham gia vào quy trình Lập trình trực quan hoặc tham gia vào một cộng đồng rộng lớn gồm người dùng và các cộng tác viên.
 
-### The Application
+### Ứng dụng
 
-Dynamo, the application, is a software that can be downloaded and run in either stand-alone "Sandbox" mode or as a plug-in for other software like Revit or Maya. It is described as:
+Dynamo, ứng dụng, là một phần mềm có thể được tải xuống và chạy ở chế độ độc lập "Sandbox" hoặc như là một plug-in cho các phần mềm khác như Revit hoặc Maya. Nó được mô tả là:
 
-> A visual programming tool that aims to be accessible to both non-programmers and programmers alike. It gives users the ability to visually script behavior, define custom pieces of logic, and script using various textual programming languages.
+> Một công cụ lập trình trực quan nhằm mục đích có thể truy cập được cho cả những người không phải lập trình viên cũng như những người lập trình. Nó cung cấp cho người dùng khả năng trực quan hóa hành động của kịch bản, xác định các phần logic tùy chỉnh và tập lệnh bằng các ngôn ngữ lập trình khác nhau.
 
-![](/01_Introduction/images/1-2/00-DynamoHomepage.jpg)
+![DynamoHomepage](images/1-2/00-DynamoHomepage.jpg)
 
-> 1. See Dynamo in action with Revit
-> 2. Download the installer
+> 1. Xem Dynamo hoạt động với Revit
+> 2. Tải xuống trình cài đặt
 
-### The Process
+### Quá trình
 
-Once we've installed the application, Dynamo will enable us to work within a Visual Programming process wherein we connect elements together to define the relationships and the sequences of actions that compose custom algorithms. We can use our algorithms for a wide array of applications - from processing data to generating geometry - all in real time and without writing a lick of `code`.
+Khi chúng tôi đã cài đặt ứng dụng, Dynamo sẽ cho phép chúng tôi làm việc trong quy trình Lập trình trực quan, trong đó chúng tôi kết nối các phần tử với nhau để xác định các mối quan hệ và chuỗi hành động tạo ra các thuật toán tùy chỉnh. Chúng tôi có thể sử dụng các thuật toán của mình cho một loạt các ứng dụng - từ xử lý dữ liệu đến tạo hình học - tất cả đều trong thời gian thực và không cần viết một đoạn `mã`.
 
 ![A Visual Program](images/1-2/01-ProgramFlow.png)
 
-> Add elements, connect, and we are off and running with creating Visual Programs.
+> Thêm các phần tử, kết nối, và chúng tôi đã chạy với việc tạo Chương trình Trực quan.
 
-### The Community
+### Cộng đồng
 
-Dynamo wouldn't be what it is without a strong group of avid users and active contributors. Engage the community by following the Blog, adding your work to the Gallery, or discussing Dynamo in the Forum.
+Dynamo sẽ không thành hiện thực nếu không có một nhóm người dùng nhiệt tình và những người đóng góp tích cực. Thu hút cộng đồng bằng cách theo dõi Blog, thêm tác phẩm của bạn vào Thư viện hoặc thảo luận về Dynamo trong Diễn đàn.
 
 ![The Forum](images/1-2/02-Community.png)
 
-### The Platform
+### Nền tảng
 
-Dynamo is envisioned as a visual programming tool for designers, allowing us to make tools that make use of external libraries or any Autodesk product that has an API. With Dynamo Studio we can develop programs in a "Sandbox" style application - but the Dynamo ecosystem continues to grow.
+Dynamo được hình dung như một công cụ lập trình trực quan cho các nhà thiết kế, cho phép chúng tôi tạo các công cụ sử dụng thư viện bên ngoài hoặc bất kỳ sản phẩm Autodesk nào có API. Với Dynamo Studio, chúng tôi có thể phát triển các chương trình trong ứng dụng độc lập kiểu "Sanbox" - nhưng hệ sinh thái Dynamo vẫn tiếp tục phát triển.
 
-The source code for the project is open-source, enabling us to extend its functionality to our hearts content. Check out the project on GitHub and browse the Works in Progress of users customizing Dynamo.
+Mã nguồn của dự án là mã nguồn mở, cho phép chúng tôi mở rộng chức năng của nó cho nội dung cốt lõi của chúng tôi. Kiểm tra dự án trên GitHub và duyệt qua các Công trình đang tiến hành của những người dùng tùy chỉnh Dynamo.
 
 ![The Repo](images/1-2/03-TheRepo.png)
 
-> Browse, Fork, and start extending Dynamo for your needs
+> Duyệt qua, Fork và bắt đầu mở rộng Dynamo theo nhu cầu của bạn

@@ -1,88 +1,88 @@
-##The Dynamo User Interface
+##Giao diện người dùng Dynamo
 
-The User Interface (UI) for Dynamo is organized into five main regions, the largest of which is the workspace where we compose our visual programs.
+Giao diện người dùng (UI) cho Dynamo được tổ chức thành năm vùng chính, vùng lớn nhất là không gian làm việc nơi chúng tôi soạn các chương trình trực quan của mình.
 
 ![User Interface Regions](images/2-2/01-UI-Regions.png)
 
->1. Menus
-2. Toolbar
-3. Library
-4. Workspace
-5. Execution Bar
+>1. Thanh menus
+>2. Thanh công cụ
+>3. Thư viện
+>4. Không gian làm việc
+>5. Thanh thực thi
 
-Let's dive deeper into the UI and explore the functionality of each region.
+Hãy đi sâu hơn vào giao diện người dùng và khám phá chức năng của từng khu vực.
 
-####Menus
+####Thanh Menus
 
-The Dropdown Menus are a great place to find some of the basic functionality of the Dynamo application. Like most Windows software, actions related to managing files and operations for selection and content editing are found in the first two menus. The remaining menus are more specific to Dynamo.
+Thanh Menu thả xuống là một nơi tuyệt vời để tìm một số chức năng cơ bản của ứng dụng Dynamo. Giống như hầu hết các phần mềm Windows, các hành động liên quan đến quản lý tệp và hoạt động để lựa chọn và chỉnh sửa nội dung được tìm thấy trong hai menu đầu tiên. Các menu còn lại là những hành động cụ thể hơn cho Dynamo.
 
 ![Dropdown Menus](images/2-2/02-Menus.png)
-> 1. File
-2. Edit
-3. View
-4. Packages
-5. Settings
-6. Help
-7. Notifications
+> 1. Tệp
+> 2. Chỉnh Sửa
+> 3. Xem
+> 4. Gói
+> 5. Thiếp lập
+> 6. Giúp đỡ
+> 7. Thông báo
 
-####Toolbar
+####Thanh công cụ
 
-Dynamo's Toolbar contains a series of buttons for quick access to working with files as well as Undo [Ctrl + Z] and Redo [Ctrl + Y] commands. On the far right is another button that will export a snapshot of the workspace, which is extremely useful for documentation and sharing.
+Thanh công cụ của Dynamo chứa một loạt các nút để truy cập nhanh vào làm việc với tệp cũng như các lệnh hoàn tác [Ctrl + Z] và làm lại [Ctrl + Y]. Ở ngoài cùng bên phải là một nút khác sẽ xuất ảnh chụp nhanh không gian làm việc, cực kỳ hữu ích cho việc chia sẻ và tài liệu.
 
 ![Needs Update-split location Toolbar](images/2-2/03-Toolbar.png)
 
-> 1. New - Create a new .dyn file
-2. Open - Open an existing .dyn (workspace) or .dyf (custom node) file
-3. Save/Save As - Save your active .dyn or .dyf file
-4. Undo - Undo your last action
-5. Redo - Redo the next action
-6. Export Workspace as Image - Export the visible workspace as a PNG file
+> 1. New - Khởi tạo một tệp .dyn mới
+> 2. Open - Mở tệp .dyn (không gian làm việc) hoặc .dyf (nút tùy chỉnh) hiện có
+> 3. Save/Save As - Lưu tệp .dyn hoặc tệp .dyf đang hoạt động của bạn
+> 4. Undo - Hoàn tác hành động cuối cùng của bạn
+> 5. Redo - Làm lại hành động tiếp theo
+> 6. Export Workspace as Image - Xuất không gian làm việc hiển thị dưới dạng tệp PNG
 
-####Library
-The Library contains all of the loaded Nodes, including the default Nodes that come with the installation as well as any additionally loaded Custom Nodes or Packages. The Nodes in the Library are organized hierarchically within libraries, categories, and, where appropriate, sub-categories based on whether the Nodes **Create** data, execute an **Action**, or **Query** data.
+####Thư viện
+Thư viện chứa tất cả các Nút đã tải, bao gồm các Nút mặc định đi kèm với cài đặt cũng như bất kỳ Gói hoặc Gói tùy chỉnh nào được tải thêm.Các nút trong Thư viện được tổ chức phân cấp trong các thư viện, danh mục, và nếu thích hợp, các danh mục con dựa trên việc các nút **Create** dữ liệu, thực thi **Action**, hoặc **Query** dữ liệu.
 
 #####Browsing
-By default, the **Library** will contain eight categories of Nodes. **Core** and **Geometry** are great menus to begin exploring as they contain the largest quantity of Nodes.  Browsing through these categories is the fastest way to understand the hierarchy of what we can add to our Workspace and the best way to discover new Nodes you haven't used before.
+Theo mặc định, **Thư viện** sẽ chứa hơn tám danh mục Nút. **Core** và **Geometry** là các menu tuyệt vời để bắt đầu khám phá vì chúng chứa số lượng nút lớn nhất. Duyệt qua các danh mục này là cách nhanh nhất để hiểu thứ bậc của những gì chúng ta có thể thêm vào Không gian làm việc của mình và là cách tốt nhất để khám phá các Nút mới mà bạn chưa sử dụng trước đây.
 
-> We will focus on the default collection of Nodes now, but note that we will extend this Library with Custom Nodes, additional libraries, and the Package Manager later.
+> Bây giờ chúng tôi sẽ tập trung vào bộ sưu tập mặc định của các Nút, nhưng lưu ý rằng chúng tôi sẽ mở rộng Thư viện này với các Nút tùy chỉnh, các thư viện bổ sung và trình quản lý gói sau này.
 
 ![NEEDS UPDATE-full width - Library Categories](images/2-2/04-LibraryCategories.png)
->1. Dictionary
-2. Display
-3. Geometry
-4. ImportExport
-5. Input
-6. List
-7. Matches
-8. Revit
-9. Script
-10. String
-11. Add-ons
+>1. Từ điển
+>2. Hiển thị
+>3. Hình học
+>4. Nhập xuất
+>5. Đầu vào
+>6. Danh sách
+>7. Tính toán
+>8. Revit
+>9. Kịch bản
+>10. Chuỗi
+>11. Add-ons
 
-Browse the Library by clicking through the menus. Click the Geometry > Curves > Circle. Note the new portion of the menu that is revealed and specifically the **Create** and **Query** Labels.
+Duyệt qua Thư viện bằng cách nhấp qua các menu. Chọn vào Geometry > Curves > Circle. Lưu ý phần mới của menu được nhìn thấy và cụ thể là các nhãn **Create** và **Query**.
 
 ![Browsing the Library](images/2-2/05-LibraryBrowsing.png)
->1. Library
-2. Category
-3. Subcategory: Create/Actions/Query
-4. Node
-5. Node Description and properties - this appears when hovering over the node icon.
+>1. Thư viện
+>2. Danh mục
+>3. Danh mục con: Create/Actions/Query
+>4. Nút
+>5. Mô tả nút và thông tin thuộc tính - điều này sẽ xuất hiện khi di chuột qua biểu tượng nút.
 
-From the same Circle menu, hover your mouse over **ByCenterPointRadius**. The window reveals more detailed information about the Node beyond its name and icon. This offers us a quick way to understand what the Node does, what it will require for inputs, and what it will give as an output.
+Từ cùng một menu Circle, di chuyển chuột qua **ByCenterPointRadius**. Cửa sổ sẽ hiển thị thông tin chi tiết hơn về nút ngoài tên và biểu tượng của nó. Điều này cung cấp cho chúng ta một cách nhanh chóng để hiểu những gì nút làm, những gì nó sẽ yêu cầu đối với đầu vào và những gì nó sẽ cung cấp dưới dạng đầu ra.
 
 ![Node Pop Up Window](images/2-2/06-NodePopup.png)
 >1. Description - plain language description of the Node
-2. Icon - larger version of the icon in the Library Menu
-3. Input(s) - name,  data type, and data structure
-4. Output(s) - data type and structure
+>2. Icon - larger version of the icon in the Library Menu
+>3. Input(s) - name,  data type, and data structure
+>4. Output(s) - data type and structure
 
-#####Searching
-If you know with relative specificity which Node you want to add to your Workspace, the **Search** field is your best friend. When you are not editing settings or specifying values in the Workspace, the cursor is always present in this field. If you start typing, the Dynamo Library will reveal a selected best fit match (with breadcrumbs for where it can be found in the Node categories) and a list of alternate matches to the search. When you hit Enter, or click on the item in the truncated browser, the highlighted Node is added to the center of the Workspace.
+#####Tìm kiếm
+Nếu bạn biết một cách tương đối cụ thể Node nào bạn muốn thêm vào không gian làm việc của mình, trường 'tìm kiếm' là một người bạn tốt nhất của bạn. Khi bạn không chỉnh sửa cài đặt hoặc chỉ định giá trị trong Không gian làm việc, con trỏ luôn hiện diện trong trường này.Nếu bạn bắt đầu nhập, Thư viện Dynamo sẽ hiển thị một kết quả phù hợp nhất đã chọn (với đường dẫn cho nơi có thể tìm thấy nó trong danh mục Nút) và danh sách các kết hợp thay thế cho tìm kiếm. Khi bạn nhấn Enter hoặc nhấp vào mục trong trình duyệt bị cắt ngắn, Nút được đánh dấu sẽ được thêm vào giữa Không gian làm việc.
 
 ![Searching the Library](images/2-2/07-LibrarySearching.png)
 >1. Search Field
-2. Best Fit Result / Selected
-3. Alternate Matches
+>2. Best Fit Result / Selected
+>3. Alternate Matches
 
 ###Settings
 From geometric to user settings, these options can be found in the **Settings** menu. Here you can opt in or out for sharing your user data to improve Dynamo as well as define the application's decimal point precision and geometry render quality.

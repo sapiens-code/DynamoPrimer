@@ -6,39 +6,39 @@ Văn bản chào mừng
 - Bối cảnh, các phiên bản trước, các hoạt động của Dynamo
 - Sự phấn khích của chúng tôi khi phát triển primer này  (dynamo đang đi đến đâu)
 - Những tham vọng xung quanh dự án (các khái niệm cơ bản, cross-disciplinary ie use the sandbox,
-- this is guide to the current dynamo version
+- Đây là nhứng hướng dẫn cho phiên bản Dynamo hiện tại.
 - team signature
 
-###1.1.2 About this Primer
+###1.1.2 Giới thiệu về Primer này
 
-- this primer introduces you to...
-- the first four chapters
-- the quick arc of this version
-- special thanks to Matt Jezyk, Zach Kron, and Colin McCrone
+- Primer này giới thiệu bạn...
+- Bốn chương đầu tiên
+- Đi một vòng nhanh chóng của phiên bản này.
+- Đặc biệt cảm ơn đến Matt Jezyk, Zach Kron, và Colin McCrone
 
-###1.1.3 Software
+###1.1.3 Phần mềm
 
 Dynamo 0.8
 (dynamo blurb)
-_note about future primer chapters on revit, speedform, web_
+_ghi chú lại về tương lai primer thông qua các chương trên revit, speedform, web_
 
-###1.1.4 Resources
+###1.1.4 Tài nguyên
 
 *DynamoBIM*
-(blurb about DynamoBIM)
+(blurb về DynamoBIM)
 http://dynamobim.org
 
 *Dynamo GitHub*
-(to contribute...)
+(để cộng tác...)
 https://github.com/ikeough/Dynamo
 
 
-###1.1.5 References
+###1.1.5 Tham khảo
 
 *Wolfram MathWorld*
-MathWorld is an online mathematics resource, assembled by Eric W. Weisstein with assistance from thousands of contributors. Since its contents first appeared online in 1995, MathWorld has emerged as a nexus of mathematical information in both the mathematics and educational communities. Its entries are extensively referenced in journals and books spanning all educational levels.
+MathWorld là một tài nguyên toán học trực tuyến, được xây dựng bởi Eric W. Weisstein với sự hỗ trợ của hàng ngàn người đóng góp. Kể từ khi nội dung của nó lần đầu tiên xuất hiện trực tuyến vào năm 1995, MathWorld đã nổi lên như là một mối quan hệ của thông tin toán học trong cả hai cộng đồng toán học và giáo dục. Các tác phẩm dự thi được tham khảo rộng rãi trên các tạp chí và sách ở tất cả các cấp học.
 http://mathworld.wolfram.com/
 
-*More Websites*
+*Nhiều Trang Web*
 
-*Books*
+*Sách*

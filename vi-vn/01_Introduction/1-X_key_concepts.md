@@ -1,9 +1,9 @@
-### 1.4 Key Concepts
+### 1.4 Những ý chính
 
-_Introduction Text_
+_Văn bản giới thiệu_
 
-####1.4.1	Numbers
-####1.4.2	Parameters
-####1.4.3	Constants
-####1.4.4	Operators
-####1.4.5	Functions
+####1.4.1	Số
+####1.4.2	Thông số
+####1.4.3	Hằng số
+####1.4.4	Toán tử
+####1.4.5	Hàm

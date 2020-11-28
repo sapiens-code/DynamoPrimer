@@ -1,55 +1,55 @@
-## Installing and Launching Dynamo
+## Cài đặt và khởi chạy Dynamo
 
-Dynamo is an active open-source development project with downloadable installers for both official and pre-release, i.e.. "daily build" versions. Download the official release to get started, or contribute to what Dynamo becomes through the daily builds or GitHub project.
+Dynamo là một dự án phát triển nguồn mở đang hoạt động với các trình cài đặt có thể tải xuống cho cả bản chính thức và bản phát hành trước, tức là những phiên bản "bản dựng hàng ngày". Tải xuống bản phát hành chính thức để bắt đầu hoặc đóng góp vào những gì Dynamo đang xây dựng thông qua các bản dựng hàng ngày hoặc dự án GitHub.
 
-### Downloading
+### Tải xuống
 
-To download the official released version of Dynamo, visit the [Dynamo website](http://dynamobim.com/). Start the download immediately by clicking from the homepage or browse to the dedicated download page.
+Để tải xuống phiên bản Dynamo được phát hành chính thức, hãy truy cập [Dynamo website](http://dynamobim.com/). Bắt đầu tải xuống nhanh chóng bằng cách nhấp vào từ trang chủ hoặc duyệt đến trang tải xuống chuyên dụng.
 
 ![website homepage](images/2-1/01-DynamoHomepage.jpg)
 
-> 1. Watch a video on Computational Design with Dynamo for Architecture
-> 2. Or browse to the download page
+> 1. Xem video về Thiết kế tính toán với Dynamo cho Architecture
+> 2. Hoặc duyệt đến trang tải xuống
 
-Here you can download the "bleeding edge" development versions or go to the [Dynamo Github](https://github.com/DynamoDS/Dynamo) project.
+Tại đây, bạn có thể tải xuống các phiên bản phát triển "phiên bản tối tân nhất" hoặc truy cập dự án [Dynamo Github](https://github.com/DynamoDS/Dynamo).
 
 ![website downloads page](images/2-1/02-DynamoDownload.jpg)
 
-> 1. Download the official release installer
-> 2. Download the daily build installers
-> 3. Check out custom packages from a community of developers
-> 4. Get involved in the development of Dynamo on GitHub
+> 1. Tải xuống trình cài đặt bản phát hành chính thức
+> 2. Tải xuống trình cài đặt bản dựng hàng ngày
+> 3. Xem các gói tùy chỉnh từ cộng đồng các nhà phát triển
+> 4. Tham gia vào quá trình phát triển Dynamo trên GitHub
 
-### Installing
+### Cài đặt
 
-Browse to the directory of the downloaded installer and run the executable file. During the installation process, the setup allows you to customize the components that will be installed.
+Duyệt đến thư mục của trình cài đặt đã tải xuống và chạy tệp thực thi. Trong quá trình cài đặt, thiết lập cho phép bạn tùy chỉnh các phiên bản sẽ được cài đặt.
 
 ![Setup Window](images/2-1/03-InstallSetup.jpg)
 
-> 1. Select the Components you want to install
+> 1. Chọn các phiên bản bạn muốn cài đặt
 
-Here we need to decide if we want to include the components that connect Dynamo to other installed applications such as Revit. For more information on the Dynamo Platform, see **Chapter 1.2**.
+Ở đây chúng ta cần quyết định xem chúng ta có muốn bao gồm các phiên bản kết nối Dynamo với các ứng dụng được cài đặt khác như Revit hay không. Để biết thêm thông tin về Nền tảng Dynamo, hãy xem ** Chương 1.2 **.
 
-### Launching
+### Khởi động
 
-To launch Dynamo, browse to \\Program Files\Dynamo\Dynamo Revit\x.y, then select DynamoSandbox.exe. This will open the stand-alone version and present Dynamo's _Start Page_. On this page, we see the standard menus and toolbar as well as a collection of shortcuts that allow us to access file functionality or access additional resources.
+Để khởi chạy Dynamo, hãy duyệt tới \\ Program Files \ Dynamo \ Dynamo Revit \ x.y, sau đó chọn DynamoSandbox.exe. Thao tác này sẽ mở phiên bản độc lập và hiện lên _Trang bắt đầu_ của Dynamo. Trên trang này, chúng ta thấy các menu và thanh công cụ tiêu chuẩn cũng như một bộ sưu tập các phím tắt cho phép chúng ta truy cập chức năng tệp hoặc truy cập các tài nguyên bổ sung.
 
 ![Dynamo start page](images/2-1/04-DynamoStartpage.jpg)
 
-> 1. Files - Start a new file or open an existing one
-> 2. Recent - Scroll through your recent files
-> 3. Backup - Access to your backups
-> 4. Ask - Get direct access to the User Forum or Dynamo Website
-> 5. Reference - Go further with additional learning resources
-> 6. Code - Participate in the open-source development project
-> 7. Samples - Check out the examples that come with the installation
+> 1. Files -Bắt đầu một tệp mới hoặc mở một tệp hiện có
+> 2. Recent - Cuộn qua các tệp gần đây của bạn
+> 3. Backup - Truy cập vào các bản sao lưu của bạn
+> 4. Ask - Truy cập trực tiếp vào Diễn đàn Người dùng hoặc Trang web Dynamo
+> 5. Reference - Tiến xa hơn với các tài nguyên học tập bổ sung
+> 6. Code - Tham gia vào dự án phát triển mã nguồn mở
+> 7. Samples - Xem các ví dụ đi kèm với cài đặt
 
-Open the first sample file to open your first workspace and confirm Dynamo is working correctly. Click Samples > Basics > **Basics\_Basic01.dyn**.
+Mở tệp mẫu đầu tiên để mở không gian làm việc đầu tiên của bạn và xác nhận Dynamo đang hoạt động chính xác. Chọn Samples > Basics > **Basics\_Basic01.dyn**.
 
 ![NEEDS UPDATE - Basics_Basic01](images/2-1/05-Basics_Basic01.jpg)
 
-> 1. Confirm that the Execution Bar says "Automatic" or click Run
-> 2. Follow the instructions and connect the **Number** Node to the **+** Node
-> 3. Confirm that this Watch Node shows a result
+> 1. Xác nhận rằng thanh thực thi đang đặt ở chế độ "Automatic" hoặc nhấp vào Run
+> 2. Làm theo hướng dẫn và kết nối **Number** Node to the **+** Node
+> 3. Xác nhận rằng Nút Watch này hiển thị kết quả
 
-If this file successfully loads, you should be able to execute your first visual program with Dynamo.
+Nếu tệp này chạy thành công, có nghĩa là bạn đã thực hiện chương trình trực quan đầu tiên của mình với Dynamo.
